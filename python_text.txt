@@ -1,0 +1,1 @@
+If I edit in git directly, will it be updated on the local repo when I pull the file?
